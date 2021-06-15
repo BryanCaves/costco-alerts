@@ -3,7 +3,7 @@ from playsound import playsound
 from bs4 import BeautifulSoup
 import requests
 
-url = 'https://www.costco.com/kettle-collection-spinach-artichoke-dip-with-parmesan-cheese%2c-4-lbs.product.100664647.html'
+url = 'https://www.costco.com/sony-playstation-5-gaming-console-bundle.product.100691489.html'
 
 def get_page_html(url):
 	headers = {
